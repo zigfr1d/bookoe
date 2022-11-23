@@ -1,0 +1,272 @@
+.navbar {
+  width: 100%;
+  height: 90px;
+  float: left;
+  background: #ffffff;
+  box-sizing: border-box;
+  /* border-bottom: 2px solid #F0F0F0; */
+}
+.navlogo {
+  width: 20%;
+  min-height: 90px;
+  float: left;
+  background: #ffffff;
+  box-sizing: border-box;
+}
+.logo {
+  width: 35%;
+  min-height: 90px;
+  float: left;
+  background: #6c5dd3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 25%;
+}
+.logotext {
+  width: 65%;
+  min-height: 90px;
+  float: left;
+  /* background: green; */
+  box-sizing: border-box;
+  padding-left: 20px;
+}
+.b {
+  margin-bottom: 0;
+}
+
+.navsearch {
+  width: 60%;
+  min-height: 90px;
+  float: left;
+  background: #ffffff;
+  /* border-bottom: 2px solid #F0F0F0; */
+}
+.menus {
+  width: 30%;
+  min-height: 90px;
+  float: left;
+  /* background: green; */
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.search {
+  width: 50%;
+  min-height: 90px;
+  float: left;
+  /* background: pink; */
+  justify-content: flex-start;
+  align-items: center;
+  display: flex;
+}
+.search input {
+  width: 400px;
+  height: 35px;
+}
+.navicon {
+  width: 20%;
+  min-height: 90px;
+  float: left;
+  /* background: orange; */
+  justify-content: flex-start;
+  display: flex;
+  align-items: center;
+}
+.navlogin {
+  width: 20%;
+  min-height: 90px;
+  float: left;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  box-sizing: border-box;
+  /* border-bottom: 2px solid #F0F0F0; */
+}
+.login1 {
+  width: 30%;
+  min-height: 90px;
+  float: left;
+  margin-top: 25px;
+  color: #6c5dd3;
+}
+.login2 {
+  width: 30%;
+  min-height: 90px;
+  float: left;
+  margin-left: 20px;
+  margin-top: 25px;
+  color: white;
+}
+.login2 button {
+  background: #6c5dd3;
+}
+.login1 button {
+  background: #f0eeff;
+}
+
+.center {
+  margin-top: 30px;
+  width: 100%;
+  min-height: 400px;
+  float: left;
+  /* background: red; */
+}
+.centerleft {
+  width: 65%;
+  min-height: 410px;
+  float: left;
+
+  background-image: url("../img/background.png");
+  background-size: cover;
+  padding-top: 30px;
+  padding-left: 30px;
+  border-radius: 8%;
+}
+
+.btn1 {
+  width: 150px;
+  height: 40px;
+  border-radius: 10%;
+  background: #6c5dd3;
+  color: white;
+  border: none;
+}
+
+.btn1 span {
+  margin-left: 10px;
+}
+
+.btn2 {
+  width: 150px;
+  height: 40px;
+  border-radius: 10%;
+  background: #ffffff;
+  color: black;
+  border: 1px solid black;
+  margin-left: 20px;
+}
+
+.centerright {
+  width: 30%;
+  min-height: 400px;
+  float: left;
+  background: #9c9c9c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+  margin-left: 20px;
+  border-radius: 8%;
+}
+.serdce {
+  width: 140px;
+  height: 180px;
+  border-radius: 15%;
+  float: left;
+  background: #c4c4c4;
+  margin-left: 20px;
+  border: 2px solid white;
+}
+.rightnutr {
+  width: 180px;
+  height: 400px;
+  float: left;
+}
+.seriy {
+  color: black;
+}
+
+.ssilki {
+  width: 100%;
+  height: 80px;
+  float: left;
+  box-sizing: border-box;
+  background: #FFFFFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 60px;
+}
+
+.delivery {
+  width: 20%;
+  height: 80px;
+  float: left;
+  /* background: green; */
+  /* justify-content: space-between; */
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 15px;
+}
+
+.iconka {
+  width: 40px;
+  height: 40px;
+  float: left;
+  background: #F0EEFF;
+  color: #6C5DD3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15%;
+  
+}
+.dtext {
+  width: 170px;
+  height: 70px;
+  float: left;
+  background: #FFFFFF;
+  font-weight: 20px;
+
+}
+.dtext h3{
+  margin: 0px;
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+.dtext p{
+  
+  font-size: 10px;
+}
+
+.payment{
+  width: 20%;
+  height: 80px;
+  float: left;
+  /* background: green; */
+  /* justify-content: space-between; */
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 15px;
+}
+.quality{
+  width: 20%;
+  height: 80px;
+  float: left;
+  /* background: green; */
+  /* justify-content: space-between; */
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 25px;
+}
+.return{
+  width: 20%;
+  height: 80px;
+  float: left;
+  /* background: green; */
+  /* justify-content: space-between; */
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 25px;
+}
